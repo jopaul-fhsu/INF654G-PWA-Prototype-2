@@ -16,14 +16,14 @@
 
 #### App Metadata:
 
-**name**: "Contact List App"
-**short_name**: "Contacts"
-**description**: "A simple contact list application."
-**Icons**: Defines two icon sizes (192x192 and 512x512) for the app.
+- **name**: "Contact List App"
+- **short_name**: "Contacts"
+- **description**: "A simple contact list application."
+- **Icons**: Defines two icon sizes (192x192 and 512x512) for the app.
 
 #### Appearance and Initialization:
 
-**start_url**: Launches at index.html.
-**display**: standalone, for standalone app behavior.
-**background_color**: White (#ffffff).
-**theme_color**: Light Blue (#64b5f6)
+- **start_url**: Launches at index.html.
+- **display**: standalone, for standalone app behavior.
+- **background_color**: White background color (#ffffff)
+- **theme_color**: Light Blue UI theme color(#64b5f6)
