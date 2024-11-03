@@ -4,9 +4,10 @@
 
 ### Service Worker
 
-**Purpose**: Manages caching of assets for offline use.
-**Cache Name**: contact-list-cache-v1.
-**Assets to Cache**:
+- **Purpose**: Manages caching of assets for offline use.
+- **Cache Name**: contact-list-cache-v1.
+- **Assets to Cache**:
+
 - The root (/), index.html, styles.css, and app.js from assets.
 - **External files:** Materialize CSS and JavaScript from a CDN and Google Material Icons.
 - **Installation Event:** Opens the cache with the specified name and adds all listed URLs.
